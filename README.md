@@ -2,9 +2,9 @@
 
 - [x] Home and About Me page
 - [x] Twitter Accounts Page
-- [ ] About My OC Page `in progress` 
+- [x] About My OC Page
 - [ ] Works Page `in progress` 
-- [ ] Other OC Page
+- [ ] Other OC Page `in progress` 
 - [ ] Contacts Page
 - [ ] BG Design
 
