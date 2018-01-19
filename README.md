@@ -3,7 +3,8 @@
 - [x] Home and About Me page
 - [x] Twitter Accounts Page
 - [x] About My OC Page
-- [ ] Works Page `in progress` 
+- [ ] Works Page `in progress`
+_Almost done! now we've to update aerin/helen's schematic_ 
 - [ ] Other OC Page `in progress` 
 - [x] Contacts Page
 - [ ] BG Design
