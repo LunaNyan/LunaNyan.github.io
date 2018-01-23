@@ -6,7 +6,7 @@
 - [x] Works Page
 - [x] Other OC Page
 - [ ] Update aerin/helen's schematic
-- [ ] Release aerin
+- [x] Release aerin `almost done` 
 - [ ] Release helen
 - [x] Contacts Page
 
