@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/lunanyan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lunanyan.github.io
+  * I am lunanyan (https://keybase.io/lunanyan) on keybase.
+  * I have a public key ASCeWjRypBqvkl9l7hDoPsJroSrACq40Z8qEZM4UkPVg1Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e5a3472a41aaf925f65ee10e83ec26ba12ac00aae3467ca8464ce1490f560d50a",
+      "host": "keybase.io",
+      "kid": "01209e5a3472a41aaf925f65ee10e83ec26ba12ac00aae3467ca8464ce1490f560d50a",
+      "uid": "47de0e45f645063dce1531c96caa5619",
+      "username": "lunanyan"
+    },
+    "merkle_root": {
+      "ctime": 1517813432,
+      "hash": "704598cd6c78807ebf8509d790300aae43d9022a6612b5e1f801ccbb670cb972c1dd4a4fa8ecd18567bf55d3998b2fd906c5a03827edda471995d35f10f57617",
+      "hash_meta": "67611b2ec6ca0a5c1464131a517aeac481c3b3e30135d8f74db4298def7906c4",
+      "seqno": 2033662
+    },
+    "service": {
+      "hostname": "lunanyan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1517813565,
+  "expire_in": 504576000,
+  "prev": "0efe887b2406b04fa8ba3d51c5166bbd6b5c81feec88464f75fba5a8cfae16aa",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnlo0cqQar5JfZe4Q6D7Ca6EqwAquNGfKhGTOFJD1YNUKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWU1YTM0NzJhNDFhYWY5MjVmNjVlZTEwZTgzZWMyNmJhMTJhYzAwYWFlMzQ2N2NhODQ2NGNlMTQ5MGY1NjBkNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWU1YTM0NzJhNDFhYWY5MjVmNjVlZTEwZTgzZWMyNmJhMTJhYzAwYWFlMzQ2N2NhODQ2NGNlMTQ5MGY1NjBkNTBhIiwidWlkIjoiNDdkZTBlNDVmNjQ1MDYzZGNlMTUzMWM5NmNhYTU2MTkiLCJ1c2VybmFtZSI6Imx1bmFueWFuIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE3ODEzNDMyLCJoYXNoIjoiNzA0NTk4Y2Q2Yzc4ODA3ZWJmODUwOWQ3OTAzMDBhYWU0M2Q5MDIyYTY2MTJiNWUxZjgwMWNjYmI2NzBjYjk3MmMxZGQ0YTRmYThlY2QxODU2N2JmNTVkMzk5OGIyZmQ5MDZjNWEwMzgyN2VkZGE0NzE5OTVkMzVmMTBmNTc2MTciLCJoYXNoX21ldGEiOiI2NzYxMWIyZWM2Y2EwYTVjMTQ2NDEzMWE1MTdhZWFjNDgxYzNiM2UzMDEzNWQ4Zjc0ZGI0Mjk4ZGVmNzkwNmM0Iiwic2Vxbm8iOjIwMzM2NjJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibHVuYW55YW4uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDAifSwiY3RpbWUiOjE1MTc4MTM1NjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMGVmZTg4N2IyNDA2YjA0ZmE4YmEzZDUxYzUxNjZiYmQ2YjVjODFmZWVjODg0NjRmNzVmYmE1YThjZmFlMTZhYSIsInNlcW5vIjoxNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAUNo7YJAhM4gr9Kk6fvT7i17LyIg1KdvuSBLK5bpHVhLB3YMKStzR2vpzL+om1UHgXFDrnLXsCqWSLqmDBpGgFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsgeyqOE1wTsIyxdrKgueTMHAPEaR9VVJyJldJQtNWBqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lunanyan
+
+==================================================================
