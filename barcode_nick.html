@@ -24,16 +24,16 @@
     </head>
     <body>
         <div id="res" class="centered-element"></div>
+        <script>
+            window.onload = function() {
+                var length = 18,
+                charset = "iI1",
+                retVal = "";
+                for (var i = 0, n = charset.length; i < length; ++i) {
+                    retVal += charset.charAt(Math.floor(Math.random() * n));
+                }
+                document.getElementById("res").innerText =  retVal;
+            };
+        </script>
     </body>
-    <script>
-        window.onload = function() {
-            var length = 18,
-            charset = "iI1",
-            retVal = "";
-            for (var i = 0, n = charset.length; i < length; ++i) {
-                retVal += charset.charAt(Math.floor(Math.random() * n));
-            }
-            document.getElementById("res").innerText =  retVal;
-        };
-    </script>
 </html>
