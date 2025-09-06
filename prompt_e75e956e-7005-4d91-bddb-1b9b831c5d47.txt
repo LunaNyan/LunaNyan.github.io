@@ -1,0 +1,6 @@
+official art,pastel_color,full_shot,full_body,little girl,solo,standing,smiling,
+long hair,white_hair,(yellow_inner_hair:1.3),bangs,yellow_eyes,
+dress,hair bow,white dress,blue bow,looking at viewer,long sleeves,bowtie,hairband,thick eyebrows,frilled dress,blue hairband,frills,striped clothes,
+(white pantyhose:1.3),
+Negative prompt: (worst aesthetic:1.05),(worst quality, bad quality, normal quality, low quality, lowres:1.05),(bad anatomy:1.05),(off-topic:1.05),flat color,sketch,cartoon,signature,unfinished,text,error,fewer,watermark,unfinished,displeasing,very displeasing,oldest,early,artistic error,username,scan,abstract,artist name,jpeg artifacts,mutation,deformed,disfigured,extra,extra digits,extra arms,extra legs,long neck,bad proportions,scan artifacts,censored,mosaic censoring,bar censor,multi navels,extra navel,extra digit,fewer digits,cropped,4-koma,surreal,abstract,dissolving,multiple-views,
+Steps: 24, Sampler: Euler a, Schedule type: Simple, CFG scale: 8, Seed: 2914683359, Size: 540x1200, Model hash: 35dae95c74, Model: cuteyukimixAdorable_kemiaomiao, Clip skip: 2, Version: 1.10.1
