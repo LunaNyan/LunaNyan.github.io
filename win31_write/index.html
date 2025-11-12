@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>웹으로 만든 윈도우 3.1 문서작성기 데모</title>
+    <link rel="stylesheet" href="/win31_write/css-win31/combined.min.css"/>
+    <link rel="stylesheet" href="/win31_write/css/main.css"/>
+</head>
+<body>
+<div class="window active" style="max-width: 800px; max-height: 600px;">
+    <div class="title-bar" style="background-color: #a5caf2; color: black;">
+        <div class="title-bar-buttons">
+            <button data-close=""></button>
+        </div>
+        <div class="title-bar-text" style="font-weight: normal; margin-top: 0; margin-bottom: -2px;">
+            문서작성기 - 제목 없음
+        </div>
+        <div class="title-bar-buttons">
+            <button data-minimize=""></button>
+            <button data-maximize=""></button>
+        </div>
+    </div>
+    <div class="window-body">
+        <ul role="menubar" style="margin-bottom: -2px;">
+            <li tabindex="0" aria-haspopup="false">
+                파일 (<u>F</u>)
+            </li>
+            <li tabindex="0" aria-haspopup="false">
+                편집 (<u>E</u>)
+            </li>
+            <li tabindex="0" aria-haspopup="false">
+                찾기 (<u>N</u>)
+            </li>
+            <li tabindex="0" aria-haspopup="false">
+                글자 (<u>C</u>)
+            </li>
+            <li tabindex="0" aria-haspopup="false">
+                단락 (<u>P</u>)
+            </li>
+            <li tabindex="0" aria-haspopup="false">
+                문서 (<u>D</u>)
+            </li>
+            <li tabindex="0" aria-haspopup="false">
+                도움말 (<u>H</u>)
+            </li>
+        </ul><hr>
+        <textarea rows="24" style="border: none; width: 100%; resize: none; overflow-y: scroll;"></textarea>
+    </div>
+</div>
+<div style="margin: 1% auto; text-align: center;">
+데모 페이지 - 고증 틀린 게 있다면 기분 탓입니다<br><br>
+<a href="https://nielssp.github.io/classic-stylesheets">테마 CSS</a>
+</div>
+</body>
+</html>
